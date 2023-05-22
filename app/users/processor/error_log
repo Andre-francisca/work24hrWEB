@@ -1,0 +1,26 @@
+[26-Oct-2022 07:57:37 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 07:59:30 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 07:59:42 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:00:44 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:01:57 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:02:03 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:03:31 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:06:03 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:06:14 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:06:33 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:07:52 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:09:01 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:09:19 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:12:56 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:13:08 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:13:35 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:13:44 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:14:23 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:17:19 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:18:42 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[26-Oct-2022 08:18:42 UTC] PHP Notice:  Undefined index: userid in /home/coinguid/public_html/users/processor/packageprocess.php on line 9
+[26-Oct-2022 08:20:38 UTC] PHP Notice:  Undefined index: amount in /home/coinguid/public_html/users/processor/packageprocess.php on line 8
+[20-Dec-2022 19:30:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'coinguid_investuser'@'localhost' (using password: YES) in /home/aavastec/public_html/threefoldinvest.com/users/include/db.php on line 7
+[20-Dec-2022 19:30:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'coinguid_investuser'@'localhost' (using password: YES) in /home/aavastec/public_html/threefoldinvest.com/users/include/db.php on line 7
+[20-Dec-2022 19:31:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'coinguid_investuser'@'localhost' (using password: YES) in /home/aavastec/public_html/threefoldinvest.com/users/include/db.php on line 7
+[20-Dec-2022 19:31:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'coinguid_investuser'@'localhost' (using password: YES) in /home/aavastec/public_html/threefoldinvest.com/users/include/db.php on line 7

@@ -1,0 +1,802 @@
+[11-Feb-2023 01:15:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::rowCount() in /home/aavastec/public_html/work24hr.com/app/controller/process.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 34
+[11-Feb-2023 01:16:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::rowCount() in /home/aavastec/public_html/work24hr.com/app/controller/process.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 34
+[11-Feb-2023 01:18:07 UTC] PHP Warning:  Undefined array key "jdate" in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 53
+[11-Feb-2023 01:18:07 UTC] PHP Warning:  Undefined array key "jdate" in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 53
+[11-Feb-2023 01:18:07 UTC] PHP Warning:  Undefined array key "jdate" in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 53
+[11-Feb-2023 01:18:07 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 125
+[11-Feb-2023 01:19:13 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 125
+[11-Feb-2023 01:21:13 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 125
+[11-Feb-2023 01:21:27 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 125
+[11-Feb-2023 01:35:37 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 125
+[11-Feb-2023 01:37:58 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 129
+[11-Feb-2023 01:41:46 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 125
+[11-Feb-2023 01:47:28 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 132
+[11-Feb-2023 01:47:28 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 173
+[11-Feb-2023 01:47:28 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 185
+[11-Feb-2023 01:47:28 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 185
+[11-Feb-2023 01:47:28 UTC] PHP Warning:  Undefined variable $next_link in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 192
+[11-Feb-2023 01:48:24 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:128
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 128
+[11-Feb-2023 01:50:14 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 134
+[11-Feb-2023 01:50:14 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 175
+[11-Feb-2023 01:50:14 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 187
+[11-Feb-2023 01:50:14 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 187
+[11-Feb-2023 01:50:14 UTC] PHP Warning:  Undefined variable $next_link in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 194
+[11-Feb-2023 01:53:29 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 134
+[11-Feb-2023 01:53:29 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 175
+[11-Feb-2023 01:53:29 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 187
+[11-Feb-2023 01:53:29 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 187
+[11-Feb-2023 01:53:29 UTC] PHP Warning:  Undefined variable $next_link in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 194
+[11-Feb-2023 01:54:51 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 134
+[11-Feb-2023 01:54:51 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 175
+[11-Feb-2023 01:54:51 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 187
+[11-Feb-2023 01:54:51 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 187
+[11-Feb-2023 01:54:51 UTC] PHP Warning:  Undefined variable $next_link in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 194
+[11-Feb-2023 02:00:25 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 134
+[11-Feb-2023 02:00:25 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 175
+[11-Feb-2023 02:00:25 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 187
+[11-Feb-2023 02:00:25 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 187
+[11-Feb-2023 02:00:25 UTC] PHP Warning:  Undefined variable $next_link in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 194
+[11-Feb-2023 02:02:23 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 136
+[11-Feb-2023 02:02:23 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 177
+[11-Feb-2023 02:02:23 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:02:23 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:02:23 UTC] PHP Warning:  Undefined variable $next_link in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 196
+[11-Feb-2023 02:03:28 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 136
+[11-Feb-2023 02:03:28 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 177
+[11-Feb-2023 02:03:28 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:03:28 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:03:28 UTC] PHP Warning:  Undefined variable $next_link in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 196
+[11-Feb-2023 02:05:40 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 136
+[11-Feb-2023 02:05:40 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 177
+[11-Feb-2023 02:05:40 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:05:40 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:05:40 UTC] PHP Warning:  Undefined variable $next_link in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 196
+[11-Feb-2023 02:06:36 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 136
+[11-Feb-2023 02:06:36 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 177
+[11-Feb-2023 02:06:36 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:06:36 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:09:39 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 136
+[11-Feb-2023 02:09:39 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 177
+[11-Feb-2023 02:09:39 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:09:39 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:11:23 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 136
+[11-Feb-2023 02:11:23 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 177
+[11-Feb-2023 02:11:23 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:11:23 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:11:38 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 136
+[11-Feb-2023 02:11:38 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 177
+[11-Feb-2023 02:11:38 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:11:38 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:15:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 136
+[11-Feb-2023 02:15:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 177
+[11-Feb-2023 02:15:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:15:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:16:01 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 136
+[11-Feb-2023 02:16:01 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 177
+[11-Feb-2023 02:16:01 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:16:01 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:17:19 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:82
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(82): implode(',', '')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 82
+[11-Feb-2023 02:18:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 138
+[11-Feb-2023 02:18:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 179
+[11-Feb-2023 02:18:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 191
+[11-Feb-2023 02:18:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 191
+[11-Feb-2023 02:19:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 136
+[11-Feb-2023 02:19:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 177
+[11-Feb-2023 02:19:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:19:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:20:10 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 136
+[11-Feb-2023 02:20:10 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 177
+[11-Feb-2023 02:20:10 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:20:10 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:22:38 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 136
+[11-Feb-2023 02:22:38 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 177
+[11-Feb-2023 02:22:38 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:22:38 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:23:47 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 136
+[11-Feb-2023 02:23:47 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 177
+[11-Feb-2023 02:23:47 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:23:47 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:24:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 136
+[11-Feb-2023 02:24:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 177
+[11-Feb-2023 02:24:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:24:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:25:37 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 136
+[11-Feb-2023 02:25:37 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 177
+[11-Feb-2023 02:25:37 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:25:37 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 189
+[11-Feb-2023 02:26:47 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 02:26:47 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 02:26:47 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:26:47 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:28:18 UTC] PHP Warning:  Uninitialized string offset 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 02:28:18 UTC] PHP Warning:  Uninitialized string offset 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 02:28:18 UTC] PHP Warning:  Uninitialized string offset 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:28:18 UTC] PHP Warning:  Uninitialized string offset 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:28:18 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 134
+[11-Feb-2023 02:29:39 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 02:29:39 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 02:29:39 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:29:39 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:30:35 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 02:30:35 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 02:30:35 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:30:35 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:34:06 UTC] PHP Warning:  Uninitialized string offset 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 02:34:06 UTC] PHP Warning:  Uninitialized string offset 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 02:34:06 UTC] PHP Warning:  Uninitialized string offset 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:34:06 UTC] PHP Warning:  Uninitialized string offset 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:34:06 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 134
+[11-Feb-2023 02:35:05 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 130
+[11-Feb-2023 02:35:58 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 130
+[11-Feb-2023 02:36:26 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 02:36:26 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 02:36:26 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:36:26 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:37:36 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 139
+[11-Feb-2023 02:37:36 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 180
+[11-Feb-2023 02:37:36 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 192
+[11-Feb-2023 02:37:36 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 192
+[11-Feb-2023 02:38:10 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 02:38:10 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 02:38:10 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:38:10 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:40:47 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 134
+[11-Feb-2023 02:43:52 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 02:43:52 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 02:43:52 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:43:52 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:47:52 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 02:47:52 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 02:47:52 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:47:52 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:58:51 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 02:58:51 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 02:58:51 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:58:51 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:59:53 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 02:59:53 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 02:59:53 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 02:59:53 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 03:00:03 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 03:00:03 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 03:00:03 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 03:00:03 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 03:02:59 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /home/aavastec/public_html/work24hr.com/app/controller/process.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 03:08:22 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 03:08:23 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 03:08:23 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 03:08:23 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 06:28:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 06:28:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 06:28:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 06:28:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 06:34:20 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 06:34:20 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 06:34:20 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 06:34:20 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 06:34:37 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 06:34:37 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 06:34:37 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 06:34:37 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 06:36:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 06:36:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 06:36:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 06:36:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 06:39:37 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[11-Feb-2023 06:39:37 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[11-Feb-2023 06:39:37 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 06:39:37 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[11-Feb-2023 06:40:29 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 139
+[11-Feb-2023 06:40:29 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 180
+[11-Feb-2023 06:40:29 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 192
+[11-Feb-2023 06:40:29 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 192
+[11-Feb-2023 06:42:16 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 139
+[11-Feb-2023 06:42:16 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 180
+[11-Feb-2023 06:42:16 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 192
+[11-Feb-2023 06:42:16 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 192
+[11-Feb-2023 11:20:51 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 130
+[11-Feb-2023 12:50:46 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 130
+[11-Feb-2023 13:55:59 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 130
+[11-Feb-2023 15:25:55 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 130
+[12-Feb-2023 12:52:16 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 130
+[12-Feb-2023 16:55:22 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 130
+[12-Feb-2023 20:27:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php:12
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php(12): mysqli_query(Object(mysqli), 'Select * FROM u...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php on line 12
+[12-Feb-2023 20:27:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php:12
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php(12): mysqli_query(Object(mysqli), 'Select * FROM u...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php on line 12
+[12-Feb-2023 20:28:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php:12
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php(12): mysqli_query(Object(mysqli), 'Select * FROM u...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php on line 12
+[12-Feb-2023 20:28:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php:12
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php(12): mysqli_query(Object(mysqli), 'Select * FROM u...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php on line 12
+[12-Feb-2023 20:28:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php:12
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php(12): mysqli_query(Object(mysqli), 'Select * FROM u...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php on line 12
+[12-Feb-2023 20:29:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php:12
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php(12): mysqli_query(Object(mysqli), 'Select * FROM u...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php on line 12
+[12-Feb-2023 20:31:46 UTC] PHP Warning:  Undefined array key "userid1" in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php on line 9
+[12-Feb-2023 20:31:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php on line 9
+[12-Feb-2023 20:31:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php:12
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php(12): mysqli_query(Object(mysqli), 'Select * FROM u...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php on line 12
+[12-Feb-2023 20:32:49 UTC] PHP Warning:  Undefined array key "userid1" in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php on line 9
+[12-Feb-2023 20:32:49 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php on line 9
+[12-Feb-2023 20:34:50 UTC] PHP Warning:  Undefined array key "userid1" in /home/aavastec/public_html/work24hr.com/app/controller/updatepass.php on line 9
+[12-Feb-2023 20:46:24 UTC] PHP Warning:  Undefined array key "userid" in /home/aavastec/public_html/work24hr.com/app/controller/userUpdate.php on line 10
+[12-Feb-2023 20:46:24 UTC] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/userUpdate.php on line 10
+[12-Feb-2023 20:46:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'phone' in 'field list' in /home/aavastec/public_html/work24hr.com/app/controller/userUpdate.php:22
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/userUpdate.php(22): mysqli_query(Object(mysqli), 'UPDATE users SE...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/userUpdate.php on line 22
+[12-Feb-2023 21:21:51 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 130
+[12-Feb-2023 21:47:51 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 130
+[12-Feb-2023 21:48:32 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 130
+[12-Feb-2023 21:49:44 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 130
+[12-Feb-2023 21:50:19 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 130
+[12-Feb-2023 21:56:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[12-Feb-2023 21:56:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[12-Feb-2023 21:56:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 21:56:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 21:56:48 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[12-Feb-2023 21:56:48 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[12-Feb-2023 21:56:48 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 21:56:48 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 21:57:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[12-Feb-2023 21:57:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[12-Feb-2023 21:57:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 21:57:08 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 21:58:15 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[12-Feb-2023 21:58:15 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[12-Feb-2023 21:58:15 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 21:58:15 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 21:58:46 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[12-Feb-2023 21:58:46 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[12-Feb-2023 21:58:46 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 21:58:46 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:00:59 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[12-Feb-2023 22:00:59 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[12-Feb-2023 22:00:59 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:00:59 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:01:49 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 139
+[12-Feb-2023 22:01:49 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 180
+[12-Feb-2023 22:01:49 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 192
+[12-Feb-2023 22:01:49 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 192
+[12-Feb-2023 22:02:55 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[12-Feb-2023 22:02:55 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[12-Feb-2023 22:02:55 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:02:55 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:07:43 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[12-Feb-2023 22:07:43 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[12-Feb-2023 22:07:43 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:07:43 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:08:03 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[12-Feb-2023 22:08:03 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[12-Feb-2023 22:08:03 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:08:03 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:18:56 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[12-Feb-2023 22:18:56 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[12-Feb-2023 22:18:56 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:18:56 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:19:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[12-Feb-2023 22:19:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[12-Feb-2023 22:19:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:19:19 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:22:42 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[12-Feb-2023 22:22:42 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[12-Feb-2023 22:22:42 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:22:42 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:23:02 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 137
+[12-Feb-2023 22:23:02 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 178
+[12-Feb-2023 22:23:02 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:23:02 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 190
+[12-Feb-2023 22:23:40 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 130
+[12-Feb-2023 22:27:04 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 138
+[12-Feb-2023 22:27:04 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 179
+[12-Feb-2023 22:27:04 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 191
+[12-Feb-2023 22:27:04 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 191
+[12-Feb-2023 22:28:30 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 138
+[12-Feb-2023 22:28:30 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 179
+[12-Feb-2023 22:28:30 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 191
+[12-Feb-2023 22:28:30 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 191
+[12-Feb-2023 22:31:20 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/aavastec/public_html/work24hr.com/app/controller/process.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 131
+[12-Feb-2023 22:33:02 UTC] PHP Warning:  Array to string conversion in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 198
+[12-Feb-2023 22:33:02 UTC] PHP Warning:  Array to string conversion in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 198
+[12-Feb-2023 22:33:02 UTC] PHP Warning:  Array to string conversion in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 198
+[12-Feb-2023 22:50:30 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 138
+[12-Feb-2023 22:50:30 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 179
+[12-Feb-2023 22:50:30 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 191
+[12-Feb-2023 22:50:30 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 191
+[13-Feb-2023 02:01:30 UTC] PHP Warning:  Undefined variable $brand_condition in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 242
+[13-Feb-2023 02:01:30 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 242
+[13-Feb-2023 02:01:53 UTC] PHP Warning:  Undefined variable $brand_condition in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 242
+[13-Feb-2023 02:01:53 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 242
+[13-Feb-2023 02:01:56 UTC] PHP Warning:  Undefined variable $brand_condition in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 242
+[13-Feb-2023 02:01:56 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 242
+[13-Feb-2023 02:02:07 UTC] PHP Warning:  Undefined variable $brand_condition in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 242
+[13-Feb-2023 02:02:07 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 242
+[13-Feb-2023 02:02:35 UTC] PHP Warning:  Undefined variable $brand_condition in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 242
+[13-Feb-2023 02:02:35 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 242
+[13-Feb-2023 02:08:24 UTC] PHP Warning:  Undefined variable $brand_condition in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 42
+[13-Feb-2023 02:08:24 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 42
+[13-Feb-2023 02:08:24 UTC] PHP Warning:  Undefined variable $brand_condition in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 269
+[13-Feb-2023 02:08:24 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 269
+[13-Feb-2023 02:08:53 UTC] PHP Warning:  Undefined variable $brand_condition in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 42
+[13-Feb-2023 02:08:53 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 42
+[13-Feb-2023 02:08:53 UTC] PHP Warning:  Undefined variable $brand_condition in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 269
+[13-Feb-2023 02:08:53 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 269
+[13-Feb-2023 02:12:47 UTC] PHP Warning:  Undefined variable $brand_condition in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 42
+[13-Feb-2023 02:12:47 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 42
+[13-Feb-2023 02:12:47 UTC] PHP Warning:  Undefined variable $brand_condition in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 269
+[13-Feb-2023 02:12:47 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 269
+[13-Feb-2023 02:15:46 UTC] PHP Warning:  Undefined variable $brand_condition in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 42
+[13-Feb-2023 02:15:46 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 42
+[13-Feb-2023 02:15:46 UTC] PHP Warning:  Undefined variable $brand_condition in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 269
+[13-Feb-2023 02:15:46 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 269
+[13-Feb-2023 02:17:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ContractORwtype' in 'where clause' in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:19:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ContractORwtyp' in 'where clause' in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:21:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ContractORwtyp' in 'where clause' in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:23:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORwtype = ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:24:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORwtype = " ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:25:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORwtype = " ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:32:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORwtype = " ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:41:25 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string % string in /home/aavastec/public_html/work24hr.com/app/controller/process.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 39
+[13-Feb-2023 02:41:48 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string % string in /home/aavastec/public_html/work24hr.com/app/controller/process.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 39
+[13-Feb-2023 02:43:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'wtype LIKE  ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:43:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'wtype LIKE "%Full Time%"wtype LIKE  ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:43:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'wtype LIKE "%Full Time%"wtype LIKE "%Internshi ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:46:30 UTC] PHP Warning:  Undefined array key "companylogo" in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 86
+[13-Feb-2023 02:46:30 UTC] PHP Warning:  Undefined array key "companylogo" in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 86
+[13-Feb-2023 02:46:30 UTC] PHP Warning:  Undefined array key "companylogo" in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 86
+[13-Feb-2023 02:46:30 UTC] PHP Warning:  Undefined array key "companylogo" in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 86
+[13-Feb-2023 02:46:30 UTC] PHP Warning:  Undefined array key "companylogo" in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 86
+[13-Feb-2023 02:46:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORwtype = " ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:46:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORwtype = "Full Time" ORwtype = " ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:46:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORwtype = " ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:46:53 UTC] PHP Warning:  Undefined array key "companylogo" in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 86
+[13-Feb-2023 02:46:53 UTC] PHP Warning:  Undefined array key "companylogo" in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 86
+[13-Feb-2023 02:46:53 UTC] PHP Warning:  Undefined array key "companylogo" in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 86
+[13-Feb-2023 02:46:53 UTC] PHP Warning:  Undefined array key "companylogo" in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 86
+[13-Feb-2023 02:46:53 UTC] PHP Warning:  Undefined array key "companylogo" in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 86
+[13-Feb-2023 02:47:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORwtype = ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:48:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORwtype = ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:48:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORwtype = "Full Time" ORwtype = ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:49:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORwtype = ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:50:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORwtype = " ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:54:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORwtype = "Full Time" ORwtype = " ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:57:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%"Contract"% ORwtype LIKE %"" ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 02:58:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%Contract% ORwtype LIKE % ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 03:01:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%Contract% wtype LIKE ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 03:02:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%Contract% wtype LIKE %Full Time% wtype LIKE ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 03:02:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%Contract% wtype LIKE ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 03:02:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%Contract% wtype LIKE ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 03:03:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%Contract% wtype LIKE %Full Time% wtype LIKE ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:73
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(73): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 73
+[13-Feb-2023 03:05:35 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 03:05:35 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 03:06:36 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 171
+[13-Feb-2023 03:06:36 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 212
+[13-Feb-2023 03:06:36 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 224
+[13-Feb-2023 03:06:36 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 224
+[13-Feb-2023 03:06:53 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 03:06:53 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 03:09:13 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 03:09:13 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 03:09:44 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 03:09:44 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 03:10:15 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 03:10:15 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 03:14:46 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 03:14:46 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 07:36:00 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 07:36:00 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 07:52:01 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 07:52:01 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 07:54:59 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 07:54:59 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 168
+[13-Feb-2023 07:57:04 UTC] PHP Warning:  Undefined variable $brand_condition in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 246
+[13-Feb-2023 07:57:04 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 246
+[13-Feb-2023 08:03:59 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:03:59 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:04:35 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:04:35 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:05:22 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:05:22 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:06:02 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:06:02 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:06:41 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:06:41 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:08:35 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:08:35 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:11:22 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:11:22 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:13:36 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:13:36 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:16:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:75
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(75): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 75
+[13-Feb-2023 08:16:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:75
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(75): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 75
+[13-Feb-2023 08:18:04 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:18:04 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:18:16 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:18:16 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:18:59 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:18:59 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:19:40 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:19:40 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:22:42 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:22:42 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:23:05 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:23:05 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 170
+[13-Feb-2023 08:26:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'wtype = "Full Time" OR wtype = "" ORDER BY jobid ASC' at line 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php:72
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/process.php(72): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 72
+[13-Feb-2023 08:28:34 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 172
+[13-Feb-2023 08:28:34 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:172
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 172
+[13-Feb-2023 08:29:23 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 172
+[13-Feb-2023 08:29:23 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:172
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 172
+[13-Feb-2023 08:29:40 UTC] PHP Warning:  Undefined variable $page_array in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 172
+[13-Feb-2023 08:29:40 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/aavastec/public_html/work24hr.com/app/controller/process.php:172
+Stack trace:
+#0 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 172
+[13-Feb-2023 09:26:00 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 176
+[13-Feb-2023 09:26:00 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 217
+[13-Feb-2023 09:26:00 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 229
+[13-Feb-2023 09:26:00 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 229
+[13-Feb-2023 09:27:00 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 176
+[13-Feb-2023 09:27:00 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 217
+[13-Feb-2023 09:27:00 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 229
+[13-Feb-2023 09:27:00 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 229
+[13-Feb-2023 09:27:11 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 176
+[13-Feb-2023 09:27:11 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 217
+[13-Feb-2023 09:27:11 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 229
+[13-Feb-2023 09:27:11 UTC] PHP Warning:  Undefined array key 1 in /home/aavastec/public_html/work24hr.com/app/controller/process.php on line 229
+[13-Feb-2023 09:37:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY jobid DESC' at line 5 in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php:61
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php(61): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php on line 61
+[13-Feb-2023 09:44:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (jtitle LIKE '%king%') 
+        
+        ORDER BY jobid DESC' at line 3 in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php:61
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php(61): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php on line 61
+[13-Feb-2023 09:44:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (jtitle LIKE '%<br /><b>Warning</b>:  Undefined variable $search in <b>/h...' at line 3 in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php:61
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php(61): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php on line 61
+[13-Feb-2023 09:45:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (jtitle LIKE '%<br /><b>Warning</b>:  Undefined variable $search in <b>/h...' at line 5 in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php:62
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php(62): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php on line 62
+[13-Feb-2023 09:49:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND wtype IN('Contract')' at line 5 in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php:62
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php(62): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php on line 62
+[13-Feb-2023 09:50:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND wtype IN('Contract')' at line 5 in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php:62
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php(62): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php on line 62
+[13-Feb-2023 09:50:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND wtype IN('Full Time')' at line 5 in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php:62
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php(62): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php on line 62
+[13-Feb-2023 09:50:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND wtype IN('Contract','Full Time')' at line 5 in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php:62
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php(62): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php on line 62
+[13-Feb-2023 09:50:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND wtype IN('Full Time')' at line 5 in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php:62
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php(62): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/app/controller/fetch_data.php on line 62

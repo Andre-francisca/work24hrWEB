@@ -1,0 +1,5 @@
+[23-Feb-2023 09:51:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'mark WHERE app_id = 4' at line 1 in /home/aavastec/public_html/work24hr.com/employer/processor/updateapplication.php:17
+Stack trace:
+#0 /home/aavastec/public_html/work24hr.com/employer/processor/updateapplication.php(17): mysqli_query(Object(mysqli), 'UPDATE job_appl...')
+#1 {main}
+  thrown in /home/aavastec/public_html/work24hr.com/employer/processor/updateapplication.php on line 17
